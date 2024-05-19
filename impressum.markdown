@@ -1,4 +1,8 @@
-# Impressum
+---
+layout: page
+title: Impressum
+permalink: /impressum
+---
 
 Educated Guess Limited is a wholly-owned subsidiary of Priell Holdings Limited
 48 Wilson Grove, London, England, SE16 4PN
