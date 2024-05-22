@@ -75,9 +75,9 @@ Two draws from the Standard Normal distribution gave me [~-2.5, ~0.5]. The  $lat
 because on average the error is close to 1.
 
 Simulations
-The theory of Empirical CDFs promises some pretty quick convergence in many cases for the original (not interpolated) method. But how does it behave in practise in low-sample scenarios? Below are charts with the mean  $latex L_{\infty}$ (blue lines), mean L_1 (red lines) and standard deviation of the  $latex L_{\infty}$ (grey line) for simulations drawing 2-30 samples from the Normal, Exponential(1), Poisson(1), Beta(2,2), Gamma(2,2) and Uniform(0,1) distributions. The notebook that does this is here, so you can easily generate ones for your own distribution.
+The theory of Empirical CDFs promises some pretty quick convergence in many cases for the original (not interpolated) method. But how does it behave in practise in low-sample scenarios? Below are charts with the mean  $latex L_{\infty}$ (blue lines), mean L_1 (red lines) and standard deviation of the  $latex L_{\infty}$ (grey line) for simulations drawing 2-30 samples from the Normal, Exponential(1), Poisson(1), Beta(2,2), Gamma(2,2) and Uniform(0,1) distributions. [The notebook that does this is here](https://github.com/Nimster/statistics/blob/master/Accuracy_analysis.ipynb), so you can easily generate ones for your own distribution.
 
-![Many distributions](all_draw.png)
+![Many distributions](/assets/all_draw.png)
 
 I also recommend for practical cases, if you had 30 samples, to just randomly choose e.g 5 of these every time and see how well they approximate the CDF you approximate with 30 points, to give you a sense of how the scale of the error looks (and perhaps fitting that line try and project from 30 onwards). But regardless some rules of thumb emerge - the maximal error in estimating percentiles 1-99 drops from an average of 2-3 times the variance of the distribution with 2 samples to ~1 times the variance or just under that for 30 samples.
 
