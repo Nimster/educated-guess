@@ -9,7 +9,7 @@ This post is about a range of options for "deliverables" - types of output - fro
 
 A key point for me is that in the context of a business need for impact, these outputs are found on different spots along two axes: Friction to impact, and Leverage.
 
-![The seven output types](types-of-research.png)
+![The seven output types](/assets/types-of-research.png)
 
 By 'friction to impact', I mean how much work is needed to actually have business impact from providing this deliverable. A report needs to be read, understood and a decision or action taken by its audience to be impactful; In the drawer it helps no one. A dashboard needs to be regularly used, while a fully automated, integrated system (e.g, some recommendation algorithm) already delivers its impact once integrated into the product.
 
@@ -47,7 +47,7 @@ The proof of concept is a step on the way to a standalone system (G), that is ne
 
 This research output is a piece of code, either standalone or (preferably) fully integrated with a key system/product that utilizes some research product to deliver impact. This is often the most impactful form of research, because it both increases the frequency and duration of the impact, and reduces the barriers to adoption to virtually zero. In the classic examples - e.g a classifier making decisions by itself, or a system automatically exploring a space of experiments, or an algorithm deciding the optimal ad bid - it essentially automates and streamlines the decision-making that humans might do with dashboards or by reviewing analyses. It does away with a lot of the dependencies to achieving impact relied upon in all of the previous forms of research: The need to communicate, convince people, or rely on their ongoing use of your research, and instead takes on the responsibility to deliver the impact itself.
 
-![The seven output types](types-of-research.png)
+![The seven output types](/assets/types-of-research.png)
 
 In organizing these outputs, I think two axes are interesting: One is the potential scope of impact, or "reach" of the output. The other is the barriers/friction to creating the impact, and how dependent it is on others or the researcher's future action. These are somewhat but not entirely inverse. The actual impact also, of course, widely varies with the substantive topic at hand, and of course depends on the research being correct, relevant, successful, etc. So for instance, it is perfectly sensible to choose to work on, and drive more impact from a "low-reach", one-off descriptive analysis of how to use your company's spare cash than a complicated method that makes some specific computations more efficient by 0.1% in rare cases, even though in my theory I place 'methods' as some of the highest-potential-scope output. But when several of these are applicable, and in the same topic, this may explain why I prefer a system with its "0 friction to impact" and decent reach, over a Proof-of-Concept with only marginally more potential applications and much more friction.
 
