@@ -11,7 +11,7 @@ Educated Guess Limited is a wholly-owned subsidiary of Priell Holdings Limited
 48 Wilson Grove, London, England, SE16 4PN
 
 ## Email & Company Number
-admin@educated-guess.com
+admi-guess-what-letter-comes-next@thisdomain
 Company number 11859172
 
 ## Phone number
